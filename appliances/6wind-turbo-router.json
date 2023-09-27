@@ -15,6 +15,7 @@
     "usage": "Default username / password is admin / admin.",
     "symbol": "6wind.svg",
     "port_name_format": "eth{0}",
+    "vendor_logo": "https://mma.prnewswire.com/media/376757/6wind_logo_highres_id_5c4ecf609fd1__copy_Logo.jpg?w=200",
     "qemu": {
         "adapter_type": "virtio-net-pci",
         "adapters": 8,
