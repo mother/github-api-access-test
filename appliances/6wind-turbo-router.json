@@ -3,7 +3,7 @@
     "name": "6WIND Turbo Router",
     "vendor_logo_urlz": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/1107px-How_to_use_icon.svg.png",
     "vendor_logo_urlx": "https://mma.prnewswire.com/media/376757/6wind_logo_highres_id_5c4ecf609fd1__copy_Logo.jpg?w=200",
-    "x": 18,
+    "x": 19,
     "category": "router",
     "description": "6WIND Turbo Router is a high performance, ready-to-use software virtual router. It can be deployed bare metal or in virtual machines on commercial-off-the-shelf (COTS) servers. It is a carrier-grade solution for Service Prodivers aiming at using white boxes to deploy network functions. Typical use-cases are transit/peering router, IPsec VPN gateway and CGNAT.",
     "vendor_name": "6WIND",
